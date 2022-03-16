@@ -6,7 +6,7 @@
 
 
 ### Live
-Check out the demo site [Tesla Clone](https://linkedin-clone-24074.web.app/)
+Check out the demo site [Tesla Clone](https://tesla-clone-b95a8.web.app)
 
 
 ### Built using:
